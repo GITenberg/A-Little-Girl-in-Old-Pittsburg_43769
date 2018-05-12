@@ -1,0 +1,30 @@
+_repo: A-Little-Girl-in-Old-Pittsburg_43769
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43769-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: ''
+gutenberg_issued: '2013-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Communities -- Juvenile fiction'
+- !lcsh 'Pittsburgh (Pa.) -- History -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+title: A Little Girl in Old Pittsburg
+url: http://www.gutenberg.org/ebooks/43769
